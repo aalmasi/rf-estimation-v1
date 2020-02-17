@@ -12,4 +12,5 @@ The package allows the following:
 To initiate the GUI, run the file MEA_v2.m in MATLAB. To set the default parameters and directories in the GUI open and edit getParams.m script. 
 
 copyright: Ali Almasi 2016
-Last update: Jan 2020
+
+Last update: Jan 2020, Version 2
